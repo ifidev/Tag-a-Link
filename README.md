@@ -18,6 +18,11 @@
   - provide pre-set filters, namely unread, visited and archived
   - provide search function
 
+### Documents
+You can find useful documents here:
+- [Quick Start](https://github.com/ifidev/Tag-a-Link/wiki/Introducing-Tag-a-Link)
+- [User Guide](https://github.com/ifidev/Tag-a-Link/wiki/Tag-a-Link-User-Guide)
+
 ### version
 
 #### v1.0
