@@ -1,28 +1,26 @@
 ## Tag a Link
 
 ### Goals
-
-- previously code named Could Be Interesting (CBI)
-- Let users to focus on discovering could-be-interesting articles / pages when browsing a listing page (e.g. news site landing page, newsletter page or search results) by allowing them to tag and save the links to the articles for reading after the discovering process. The user can then use the links show on the side panel to visit the page one by one without opening extra tab.
+The main goal is to help users focus on discovering content that sparks their interest while skimming through listing pages, such as news sites, newsletters, or search results. Instead of opening countless tabs, users can tag and save links for later reading. The saved links are displayed as Previews in the side panel, allowing users to explore each page one by one, hassle-free.
 
 ### Main Features
-
-- user can switch on and off the Tag-a-Link function
-- when the Tag-a-Link function is on, user can tag and save the link of an article to read later
-- open the tagged articles one by one without the need to open extra tabs
-- in addition to the above, the extension also:
-  - tagged articles are sorted into different user-friendly dates, e.g. Today, Yesterday, This Week, Last Week and so on;
-  - allow users to bookmark interesting page easily;
-  - provide visual assistants flagging visited page, bookmarked page;
-  - allow clean up tagged articles by deleting or archiving tagged items;
-  - provide pre-set filters, namely unread, visited and archived
-  - provide search function
+- **Toggle Functionality**: Easily switch the Tag-a-Link function on or off.
+- **Tag and Save**: When enabled, you can tag and save article links for later reading.
+- **Streamlined Reading**: Open tagged articles one by one without the need for extra tabs.
+- **Additional Features**:
+  - **Organized by Date**: Tagged articles are automatically sorted into user-friendly date categories like Today, Yesterday, This Week, Last Week, etc.
+  - **Easy Bookmarking**: Quickly bookmark interesting pages.
+  - **Chrome Reading List**: Add links directly to your Chrome Reading List.
+  - **Visual Indicators**:
+    - Flags for visited and unread pages.
+    - Badges for bookmarked pages and pages added to the reading list.
+  - **Link Management**: Clean up saved links by archiving or deleting them.
+  - **Pre-set Filters**: Use filters for unread, visited, and archived links.
+  - **Search Functionality**: Find saved articles easily with a keyword search.
 
 ### Documents
 You can find useful documents here:
-- [Quick Start](https://github.com/ifidev/Tag-a-Link/wiki/Introducing-Tag-a-Link)
+- [Quick Start](https://github.com/ifidev/Tag-a-Link/wiki)
 - [User Guide](https://github.com/ifidev/Tag-a-Link/wiki/Tag-a-Link-User-Guide)
 
-### version
 
-#### v1.0
