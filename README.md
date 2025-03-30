@@ -8,6 +8,7 @@ The main goal is to help users focus on discovering content that sparks their in
 - **Tag and Save**: When enabled, you can tag and save article links for later reading.
 - **Streamlined Reading**: Open tagged articles one by one without the need for extra tabs.
 - **Additional Features**:
+  - **Quick Note**: Add short note about the linked article / page for future reference. 
   - **Organized by Date**: Tagged articles are automatically sorted into user-friendly date categories like Today, Yesterday, This Week, Last Week, etc.
   - **Easy Bookmarking**: Quickly bookmark interesting pages.
   - **Chrome Reading List**: Add links directly to your Chrome Reading List.
